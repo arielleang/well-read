@@ -1,0 +1,83 @@
+{
+    "books": [
+      {
+        "title": "Red Rising",
+        "author": "Pierce Brown",
+        "page_count": 400,
+        "subgenre":"science_fiction",
+        "pace": "fast",
+        "is_series":"true",
+        "id": 1
+  
+      },
+      {
+       "title": "The Poppy War",
+        "author": "R F Kuang",
+        "page_count": 544,
+        "subgenre":"grimdark",
+        "pace": "medium",
+        "is_series":"true",
+        "id": 2
+      },
+      {
+        "title": "The Dragon Republic",
+        "author": "R F Kuang",
+        "page_count": 672,
+        "subgenre":"grimdark",
+        "pace": "medium",
+        "is_series":"true",
+        "id": 3
+      },
+      {
+        "title": "Assasin's Apprentice",
+        "author": "Robin Hobb",
+        "page_count": 672,
+        "subgenre":"epic",
+        "pace": "slow",
+        "is_series":"true",
+        "id": 4
+      },
+      {
+        "title": "Tress of the Emerald Sea",
+        "author": "Brandon Sanderson",
+        "page_count": 384,
+        "subgenre":"epic",
+        "pace": "slow",
+        "is_series":"false",
+        "id": 5
+      }
+    ],
+    "reader personas": [
+      {
+        "name": "Rainy Day Reader",
+        "description": "Likes low-risk, cozy books that elicit emotions of joy and wonder.",
+        "subgenres_explored": ["cozy", "magical-realism", "low-fantasy"],
+        "typical_pace": "slow",
+        "tags": ["emotional","light","adventurous","funny"],
+        "id": 1
+      },
+      {
+        "name": "Morally Grey Malcontent",
+        "description": "Likes high-stakes, violent books that explore morality.",
+        "subgenres_explored": ["grimdark", "epic", "science-fiction"],
+        "typical_pace":["medium", "fast"],
+        "tags": ["violence","sad","dark","gore","gothic", "war"],
+        "id": 2
+      },
+      {
+        "name": "Enchanted Wanderer",
+        "description": "Likes fairytale-like fantasy that includes whitches, faries, or other creatures, often related to romance",
+        "subgenres_explored": ["romantasy","magical-realism", "fairy-tale"],
+        "typical_pace": ["slow"],
+        "tags":["emotional","whimsical", "hopeful"],
+        "id": 3
+      },
+      {
+        "name": "Adrenaline Junkie",
+        "description": "Likes high-fantasy books in the realm of science fiction or medeival times that often includes an anti-hero that must save their world",
+        "subgenres_explored": ["science-fiction", "epic", "sword-and-stone", "futuristic"],
+        "tags":["dark","world-building", "emotional","adventurous", "war"],
+        "id": 4
+      }
+    ]
+  }
