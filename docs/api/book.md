@@ -15,7 +15,7 @@ Contains information about the books in the service.
 
 A book resource describes the database of fantasy books used for recommendations in the service.
 
-To get a book recommendation from the service, a persona must be added to
+To get a book recommendation from the service, you must add a persona to
 the service first. Learn more about the [`persona`](persona.md) resource.
 
 ## Resource properties
