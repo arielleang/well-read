@@ -16,7 +16,7 @@ Use this API to learn how to install the service in your system, add books to th
 
 Let's start with a quick tutorial on getting a book recommendation based on a specific reader persona. Make sure that the **Well-Read** Service in your system has at least one [`book`](../api/book.md) resource and one [`persona`](../api/persona.md) resource in its database before you start this tutorial.
 
-Getting a book recommendation in the service requires that you use the `GET` method to retrieve the details of a [`persona`](placeholder.md) resource in the service.
+Getting a book recommendation in the service requires that you use the `GET` method to retrieve the details of a [`persona`](../api/persona.md) resource in the service.
 
 **To get a book recommendation by persona:**
 
@@ -77,5 +77,5 @@ Now that you've successfully [received your first book recommendation](#get-star
 
 ### Resources for the To-Do Service
 
-* [book](../api/book.md)
-* [persona](../api/persona.md)
+* [book](api/book.md)
+* [persona](api/persona.md)
