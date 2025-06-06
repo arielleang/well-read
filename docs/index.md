@@ -4,9 +4,10 @@ Welcome to the REST API of **Well-Read**, a simple service where you can receive
 
 Use this API to learn how to install the service in your system, add books to the collection, get book recommendations based on personas, and refine personas by adding preference tags to get better book recommendations.
 
-|                 |  **Quick links**  |           |
-|-----------------|:-------------:|-----------|
-| [Install service](#get-started) | [Tutorials](#tutorials) | [API Reference](#api-reference) |
+| **Quick links** |           |
+|-----------------|-------------|
+| [Install service](#get-started) | [Tutorials](#tutorials) |
+| [API reference](#api-reference) | [About the service](#about-the-service) |
 
 ---
 
@@ -79,3 +80,9 @@ Now that you've successfully [received your first book recommendation](#get-star
 
 * [book](api/book.md)
 * [persona](api/persona.md)
+
+---
+
+## About the service
+
+TBD
