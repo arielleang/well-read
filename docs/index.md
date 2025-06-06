@@ -4,16 +4,15 @@ Welcome to the REST API of **Well-Read**, a simple service where you can receive
 
 Use this API to learn how to install the service in your system, add books to the collection, get book recommendations based on personas, and refine personas by adding preference tags to get better book recommendations.
 
-| **Quick links** |           |
-|-----------------|-------------|
-| [Install service](#get-started) | [Tutorials](#tutorials) |
-| [API reference](#api-reference) | [About the service](#about-the-service) |
+|                                 |                                    |     **Quick links**     |                                 |                                         |
+|---------------------------------|------------------------------------|:-----------------------:|---------------------------------|-----------------------------------------|
+| [Install service](#get-started) | [API authentication](#get-started) | [Tutorials](#tutorials) | [API reference](#api-reference) | [About the service](#about-the-service) |
 
 ---
 
 ## Get started
 
-> Have you [installed the Well-Read Service and established an authenticated connection](placeholder.md) in your development system? Make sure you have all the requirements in your system before you begin.
+> Have you [installed the Well-Read Service](placeholder.md) and [established an authenticated connection](placeholder.md) in your development system? Make sure you have all the requirements in your system before you begin.
 
 Let's start with a quick tutorial on getting a book recommendation based on a specific reader persona. Make sure that the **Well-Read** Service in your system has at least one [`book`](api/book.md) resource and one [`persona`](api/persona.md) resource in its database before you start this tutorial.
 
