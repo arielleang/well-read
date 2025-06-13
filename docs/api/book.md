@@ -47,14 +47,16 @@ Sample `book` resource
 
 ## Read operations
 
-* [Get all users](users-get-all-users.md)
-* [Get users by ID](users-get-user-by-id.md)
-* [Get user by last name](./users-get-user-by-last-name.md)
+* [Get a book by title](books-get-a-book-by-title.md)
 
 ## Create operations
 
-* [Post users](users-post-users.md)
+* [Post a book](books-post-a-book.md)
+
+## Update operations
+
+* [Put a book by ID](books-put-a-book-by-id.md)
 
 ## Delete operations
 
-* [Delete user by ID](Ref_DELETE_User.md)
+* [Delete a book by ID](books-delete-a-book-by-id.md)

@@ -34,21 +34,22 @@ Sample `persona` resource
 | `name` | string | The name of the persona |
 | `description` | string | A short description about the books the persona prefers |
 | `subgenres_explored` | string | A comma-separated list of fantasy subgenres the persona prefers |
-| `typical_pace` | string | The pace of books the persona prefers. Valid values are: `values` |
+| `typical_pace` | string | The pace of books the persona prefers. Valid values are: `slow`, `medium`, `fast` |
 | `tags` | string | A comma-separated list of words that describe the books the persona prefers |
 | `id` | number | The persona's unique record ID |
 
 ## Read operations
 
-* [Get all tasks _(coming soon)_](#resource-properties)
-* [Get task by ID _(coming soon)_](#resource-properties)
-* [Get task by user ID](./tasks-get-tasks-by-user-id.md)
-* [get task with full-text search](./tasks-get-tasks-with-search)
+* [Get a persona by name](personas-get-a-persona-by-name.md)
 
 ## Create operations
 
-* [Add a task resource](./tasks-add-a-task.md)
+* [Post a persona](personas-post-a-persona.md)
 
 ## Update operations
 
-* [Put task by ID](./tasks-put-task-by-id.md)
+* [Put a persona by ID](personas-put-a-persona-by-id.md)
+
+## Delete operations
+
+* [Delete a persona by ID](personas-delete-a-persona-by-id.md)

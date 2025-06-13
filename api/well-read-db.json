@@ -6,6 +6,7 @@
         "page_count": 400,
         "subgenre":"science_fiction",
         "pace": "fast",
+        "tags":["violence", "war", "dark"],
         "is_series":"true",
         "id": 1
   
@@ -16,6 +17,7 @@
         "page_count": 544,
         "subgenre":"grimdark",
         "pace": "medium",
+        "tags":["violence", "sad", "gore", "war", "world-building"],
         "is_series":"true",
         "id": 2
       },
@@ -25,6 +27,7 @@
         "page_count": 672,
         "subgenre":"grimdark",
         "pace": "medium",
+        "tags":["violence", "sad", "gore", "war", "world-building"],
         "is_series":"true",
         "id": 3
       },
@@ -34,6 +37,7 @@
         "page_count": 672,
         "subgenre":"epic",
         "pace": "slow",
+        "tags":["adventurous", "epic", "world-building"],
         "is_series":"true",
         "id": 4
       },
@@ -44,6 +48,7 @@
         "subgenre":"epic",
         "pace": "slow",
         "is_series":"false",
+        "tags":["low-fantasy", "adventurous", "epic", "whimsical"],
         "id": 5
       }
     ],
@@ -53,7 +58,7 @@
         "description": "Likes low-risk, cozy books that elicit emotions of joy and wonder.",
         "subgenres_explored": ["cozy", "magical-realism", "low-fantasy"],
         "typical_pace": "slow",
-        "tags": ["emotional","light","adventurous","funny"],
+        "related_tags": ["emotional","light","adventurous","funny"],
         "id": 1
       },
       {
@@ -61,7 +66,7 @@
         "description": "Likes high-stakes, violent books that explore morality.",
         "subgenres_explored": ["grimdark", "epic", "science-fiction"],
         "typical_pace":["medium", "fast"],
-        "tags": ["violence","sad","dark","gore","gothic", "war"],
+        "related_tags": ["violence","sad","dark","gore","gothic", "war"],
         "id": 2
       },
       {
@@ -69,14 +74,14 @@
         "description": "Likes fairytale-like fantasy that includes whitches, faries, or other creatures, often related to romance",
         "subgenres_explored": ["romantasy","magical-realism", "fairy-tale"],
         "typical_pace": ["slow"],
-        "tags":["emotional","whimsical", "hopeful"],
+        "related_tags":["emotional","whimsical", "hopeful"],
         "id": 3
       },
       {
         "name": "Adrenaline Junkie",
         "description": "Likes high-fantasy books in the realm of science fiction or medeival times that often includes an anti-hero that must save their world",
         "subgenres_explored": ["science-fiction", "epic", "sword-and-stone", "futuristic"],
-        "tags":["dark","world-building", "emotional","adventurous", "war"],
+        "related_tags":["dark","world-building", "emotional","adventurous", "war"],
         "id": 4
       }
     ]
