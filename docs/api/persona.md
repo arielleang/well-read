@@ -1,14 +1,14 @@
----
-layout: page
----
-
 # `persona` resource
+
+> The `{base_url}` value of the resources depends on the installation of the service.
+>
+> When run locally for testing, the `{base_url}` is generally `http://localhost:3000`.
 
 Base endpoint:
 
 ```shell
 
-{server_url}/personas
+{base_url}/personas
 ```
 
 Contains information about personas used to get book recommendations in the service.

@@ -79,8 +79,9 @@
       },
       {
         "name": "Adrenaline Junkie",
-        "description": "Likes high-fantasy books in the realm of science fiction or medeival times that often includes an anti-hero that must save their world",
+        "description": "Likes high-fantasy books in the realm of science fiction or medieval times that often includes an anti-hero that must save their world",
         "subgenres_explored": ["science-fiction", "epic", "sword-and-stone", "futuristic"],
+        "typical_pace": ["fast"],
         "related_tags":["dark","world-building", "emotional","adventurous", "war"],
         "id": 4
       }
