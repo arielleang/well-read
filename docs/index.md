@@ -136,7 +136,7 @@ Now that you've successfully [received your first book recommendation](#get-star
 >
 > When run locally for testing, the `{base_url}` is generally `http://localhost:3000`.
 
-### Resources for the To-Do Service
+### Resources and reference topics for the service
 
 * [book](api/book.md)
     * [Post a book](api/books-post-a-book.md)
@@ -159,6 +159,6 @@ Now that you've successfully [received your first book recommendation](#get-star
 Fantasy is an expansive genre with a variation of sub-genres that are ever-expanding.
 The **Well-Read** Service provides you with book recommendations based on the reader persona with which you identify most.
 The service suggests novels based on pace, topics covered, and themes.
-Use the **Well-Read** service to discover a variety of niche books that complement your reading style.
+Use the **Well-Read** Service to discover a variety of niche books that complement your reading style.
 
 [_^ Back to top_](#well-read-service-api-documentation-for-a-fantasy-book-recommendation-service)

@@ -6,7 +6,7 @@
 The **Well-Read** Service features reader personas designed to match users with fantasy books in the collection.
 This tutorial teaches you how to update a [`persona`](../api/persona.md) resource to add more details about the persona's book preferences.
 
->The tutorial takes approximately 10 minutes to complete.
+>The tutorial takes approximately 15 minutes to complete.
 
 For this tutorial, you'll update the `description` and `related_tags` properties of the **Enchanted Wanderer** persona.
 You can view the current `persona` object below:
