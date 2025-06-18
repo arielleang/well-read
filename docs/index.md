@@ -156,7 +156,7 @@ Now that you've successfully [received your first book recommendation](#get-star
 
 ## About the service
 
-Fantasy is an expansive genre with a variation of sub-genres that are ever-expanding.
+Fantasy is a far-reaching genre with a variation of subgenres that are ever-expanding.
 The **Well-Read** Service provides you with book recommendations based on the reader persona with which you identify most.
 The service suggests novels based on pace, topics covered, and themes.
 Use the **Well-Read** Service to discover a variety of niche books that complement your reading style.

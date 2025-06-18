@@ -9,7 +9,7 @@ To run the **Well-Read** Service, you must have the following prerequisites in y
 
 After you have all the prerequisites in your system, [test the service](#test-the-service) by running a basic API request.
 
-Expect this preparation to take about 10 minutes to complete.
+Expect this preparation to take about 20 minutes to complete.
 
 ## The database file for the service
 
