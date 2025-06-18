@@ -6,7 +6,7 @@
 The **Well-Read** Service features reader personas designed to match users with fantasy books in the collection.
 This tutorial teaches you how to update a [`persona`](../api/persona.md) resource to add more details about the persona's book preferences.
 
->The tutorial takes approximately 10 minutes to complete.
+>The tutorial takes approximately 15 minutes to complete.
 
 For this tutorial, you'll update the `description` and `related_tags` properties of the **Enchanted Wanderer** persona.
 You can view the current `persona` object below:
@@ -58,25 +58,27 @@ Using the `PUT` method and the persona's ID to make an API request, you'll fix t
    Note that the `description` and `related_tags` properties should be updated with your changes.
 
     ```js
-    {
-        "name": "Enchanted Wanderer",
-        "description": "Likes fairytale-like fantasy that includes witches, fairies, or other creatures, often related to romance. Novels usually have a happy ending.",
-        "subgenres_explored": [
-            "romantasy",
-            "magical-realism",
-            "fairy-tale"
-        ],
-        "typical_pace": [
-            "slow"
-        ],
-            "related_tags": [
-        "emotional",
-            "whimsical",
-            "hopeful",
-            "happy-ending"
-        ],
-        "id": 3
-    }
+    [
+        {
+            "name": "Enchanted Wanderer",
+            "description": "Likes fairytale-like fantasy that includes witches, fairies, or other creatures, often related to romance. Novels usually have a happy ending.",
+            "subgenres_explored": [
+                "romantasy",
+                "magical-realism",
+                "fairy-tale"
+            ],
+            "typical_pace": [
+                "slow"
+            ],
+                "related_tags": [
+            "emotional",
+                "whimsical",
+                "hopeful",
+                "happy-ending"
+            ],
+            "id": 3
+        }
+    ]
     ```
 
 ## Next steps

@@ -30,35 +30,37 @@ For this tutorial, you'll retrieve a list of all the books in the database with 
 5. The response body should return all the books in the database with the **epic** subgenre:
 
     ```js
-    {
-        "title": "Assasin's Apprentice",
-        "author": "Robin Hobb",
-        "page_count": 672,
-        "subgenre": "epic",
-        "pace": "slow",
-        "tags": [
-            "adventurous",
-            "epic",
-            "world-building"
-        ],
-        "is_series": "true",
-        "id": 4
-    },
-    {
-        "title": "Tress of the Emerald Sea",
-        "author": "Brandon Sanderson",
-        "page_count": 384,
-        "subgenre": "epic",
-        "pace": "slow",
-        "is_series": "false",
-        "tags": [
-            "low-fantasy",
-            "adventurous",
-            "epic",
-            "whimsical"
-        ],
-        "id": 5
-    }
+    [
+        {
+            "title": "Assasin's Apprentice",
+            "author": "Robin Hobb",
+            "page_count": 672,
+            "subgenre": "epic",
+            "pace": "slow",
+            "tags": [
+                "adventurous",
+                "epic",
+                "world-building"
+            ],
+            "is_series": "true",
+            "id": 4
+        },
+        {
+            "title": "Tress of the Emerald Sea",
+            "author": "Brandon Sanderson",
+            "page_count": 384,
+            "subgenre": "epic",
+            "pace": "slow",
+            "is_series": "false",
+            "tags": [
+                "low-fantasy",
+                "adventurous",
+                "epic",
+                "whimsical"
+            ],
+            "id": 5
+        }
+    ]
     ```
 
 ## Next steps
