@@ -10,7 +10,7 @@ Returns the [persona](persona.md) specified by the `name` parameter, if it exist
 
 ```shell
 
-{server_url}/personas?name={value}
+{base_url}/personas?name={value}
 ```
 
 ## Parameters

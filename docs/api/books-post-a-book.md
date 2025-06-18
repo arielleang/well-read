@@ -10,7 +10,7 @@ Adds a new [book](book.md) object.
 
 ```shell
 
-{server_url}/books/
+{base_url}/books/
 ```
 
 ## Parameters

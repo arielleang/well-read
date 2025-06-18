@@ -10,7 +10,7 @@ Deletes the [book](book.md) object specified by the `id` parameter, if it exists
 
 ```shell
 
-{server_url}/books/{id}
+{base_url}/books/{id}
 ```
 
 ## Parameters

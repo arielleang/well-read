@@ -1,14 +1,14 @@
----
-layout: page
----
-
 # `book` resource
+
+> The `{base_url}` value of the resources depends on the installation of the service.
+>
+> When run locally for testing, the `{base_url}` is generally `http://localhost:3000`.
 
 Base endpoint:
 
 ```shell
 
-{server_url}/books
+{base_url}/books
 ```
 
 Contains information about the books in the service.
@@ -30,6 +30,7 @@ Sample `book` resource
     "page_count": 544,
     "subgenre":"grimdark",
     "pace": "medium",
+    "tags":["violence", "sad", "gore", "war", "world-building"],
     "is_series":"true",
     "id": 2
 }

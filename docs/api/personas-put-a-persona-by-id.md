@@ -10,7 +10,7 @@ Updates the [persona](persona.md) object specified by the `id` parameter, if it 
 
 ```shell
 
-{server_url}/personas/{id}
+{base_url}/personas/{id}
 ```
 
 ## Parameters
@@ -22,7 +22,7 @@ Updates the [persona](persona.md) object specified by the `id` parameter, if it 
 | `subgenres_explored` | string | A comma-separated list of fantasy subgenres the persona prefers | Yes |
 | `typical_pace` | string | The pace of books the persona prefers. Valid values are: `slow`, `medium`, `fast` | Yes |
 | `tags` | string | A comma-separated list of words that describe the books the persona prefers | Yes |
-| `id` | number | The persona's unique record ID | Yes 
+| `id` | number | The persona's unique record ID | Yes |
 
 You should specify all the listed parameters as the `PUT` method requires you to input the whole object into the request body.
 

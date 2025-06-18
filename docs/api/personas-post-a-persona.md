@@ -10,7 +10,7 @@ Adds a new [persona](persona.md) object.
 
 ```shell
 
-{server_url}/personas/
+{base_url}/personas/
 ```
 
 ## Parameters

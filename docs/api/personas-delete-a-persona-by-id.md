@@ -10,7 +10,7 @@ Deletes the [persona](persona.md) specified by the `id` parameter, if it exists.
 
 ```shell
 
-{server_url}/personas/{id}
+{base_url}/personas/{id}
 ```
 
 ## Parameters

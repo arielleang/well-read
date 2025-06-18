@@ -10,7 +10,7 @@ Returns the [book](book.md) specified by the `title` parameter, if it exists.
 
 ```shell
 
-{server_url}/books?title={value}
+{base_url}/books?title={value}
 ```
 
 ## Parameters
