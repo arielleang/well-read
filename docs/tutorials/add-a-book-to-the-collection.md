@@ -77,5 +77,5 @@ Using the `POST` method, you'll add the book **A Memory Called Empire** by Arkad
 
 ## Next steps
 
-Now that you've added a new [`book`](../api/book.md) resource to the collection, you can try to get it as a book recommendation by reviewing the steps in the [quickstart tutorial](../index.md#get-started-with-a-quickstart-tutorial).
+Now that you've added a new [`book`](../api/book.md) resource to the collection, you can try to get it as a book recommendation by reviewing the steps in the [quickstart tutorial](../quickstart-tutorial.md).
 You can also find all the books with the `science-fiction` subgenre by following the [Find books by subgenre](find-books-by-subgenre.md) tutorial.
