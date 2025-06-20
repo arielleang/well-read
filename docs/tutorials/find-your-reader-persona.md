@@ -12,10 +12,11 @@ This tutorial teaches you how to determine your own reader persona and how to re
 
 First, take the [Well-Read Persona Quiz](https://form.typeform.com/to/ooSs9696) to determine which reader persona fits you the best. The quiz contains six personality-based multiple choice questions and takes approximately 5 minutes to complete.
 
-After you complete the quiz and get your reader persona result, use the `GET` method to retrieve the [`persona`](../api/persona.md) resource in the service using the name of the persona.
-For this tutorial, you'll need to retrieve the **Rainy Day Reader** persona.
-
 ## Part 2: Get a persona by name
+
+After you complete the quiz and get your reader persona result, use the `GET` method to retrieve the [`persona`](../api/persona.md) resource in the service using the name of the persona.
+
+For this tutorial, you'll need to retrieve the **Rainy Day Reader** persona.
 
 1. Start the service by running this command in your preferred command-line tool:
 

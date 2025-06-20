@@ -84,5 +84,3 @@ The service suggests novels based on pace, topics covered, and themes.
 Use the **Well-Read** Service to discover a variety of niche books that complement your reading style.
 
 [_^ Back to top_](#well-read-service-api-documentation-for-a-fantasy-book-recommendation-service)
-
----
