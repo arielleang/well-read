@@ -32,14 +32,14 @@ For this tutorial, you'll need to retrieve the **Morally Grey Malcontent** reade
 5. The response body should return the resource for the **Morally Grey Malcontent** persona:
 
     ```js
-      {
-        "name": "Morally Grey Malcontent",
-        "description": "Likes high-stakes, violent books that explore morality.",
-        "subgenres_explored": ["grimdark", "epic", "science-fiction"],
-        "typical_pace":["medium", "fast"],
-        "related_tags": ["violence","sad","dark","gore","gothic", "war"],
-        "id": 2
-      }
+    {
+      "name": "Morally Grey Malcontent",
+      "description": "Likes high-stakes, violent books that explore morality.",
+      "subgenres_explored": ["grimdark", "epic", "science-fiction"],
+      "typical_pace":["medium", "fast"],
+      "related_tags": ["violence","sad","dark","gore","gothic", "war"],
+      "id": 2
+    }
     ```
 
 > You're halfway done with the tutorial.
@@ -60,6 +60,7 @@ The equivalent key-value pairs for the `book` resource are: `subgenre: grimdark`
 3. The response body should return the `book` resources that match the filters:
 
     ```js
+    [
       {
        "title": "The Poppy War",
         "author": "R F Kuang",
@@ -80,6 +81,7 @@ The equivalent key-value pairs for the `book` resource are: `subgenre: grimdark`
         "is_series":"true",
         "id": 3
       }
+    ]
     ```
 
 You now have some book recommendations based on specific properties taken from a reader persona.

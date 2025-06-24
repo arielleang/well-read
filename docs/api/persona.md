@@ -41,6 +41,7 @@ Sample `persona` resource
 ## Read operations
 
 * [Get a persona by name](personas-get-a-persona-by-name.md)
+* [Get all personas](personas-get-all-personas.md)
 
 ## Create operations
 

@@ -63,12 +63,14 @@ After you've successfully [received your first book recommendation](quickstart-t
 * [book](api/book.md)
     * [Post a book](api/books-post-a-book.md)
     * [Get a book by title](api/books-get-a-book-by-title.md)
+    * [Get all books](api/books-get-all-books.md)
     * [Put a book by ID](api/books-put-a-book-by-id.md)
     * [Delete a book by ID](api/books-delete-a-book-by-id.md)
 
 * [persona](api/persona.md)
     * [Post a persona](api/personas-post-a-persona.md)
     * [Get a persona by name](api/personas-get-a-persona-by-name.md)
+    * [Get all personas](api/personas-get-all-personas.md)
     * [Put a persona by ID](api/personas-put-a-persona-by-id.md)
     * [Delete a persona by ID](api/personas-delete-a-persona-by-id.md)
 

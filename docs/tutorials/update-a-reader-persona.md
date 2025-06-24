@@ -58,25 +58,27 @@ Using the `PUT` method and the persona's ID to make an API request, you'll fix t
    Note that the `description` and `related_tags` properties should be updated with your changes.
 
     ```js
-    {
-        "name": "Enchanted Wanderer",
-        "description": "Likes fairytale-like fantasy that includes witches, fairies, or other creatures, often related to romance. Novels usually have a happy ending.",
-        "subgenres_explored": [
-            "romantasy",
-            "magical-realism",
-            "fairy-tale"
-        ],
-        "typical_pace": [
-            "slow"
-        ],
-            "related_tags": [
-        "emotional",
-            "whimsical",
-            "hopeful",
-            "happy-ending"
-        ],
-        "id": 3
-    }
+    [
+        {
+            "name": "Enchanted Wanderer",
+            "description": "Likes fairytale-like fantasy that includes witches, fairies, or other creatures, often related to romance. Novels usually have a happy ending.",
+            "subgenres_explored": [
+                "romantasy",
+                "magical-realism",
+                "fairy-tale"
+            ],
+            "typical_pace": [
+                "slow"
+            ],
+                "related_tags": [
+            "emotional",
+                "whimsical",
+                "hopeful",
+                "happy-ending"
+            ],
+            "id": 3
+        }
+    ]
     ```
 
 ## Next steps
