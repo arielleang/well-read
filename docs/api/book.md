@@ -49,6 +49,7 @@ Sample `book` resource
 ## Read operations
 
 * [Get a book by title](books-get-a-book-by-title.md)
+* [Get all books](books-get-all-books.md)
 
 ## Create operations
 
